@@ -1,0 +1,10 @@
+# Meta
+python-dotenv
+tqdm
+
+# Google Gemini
+google-cloud-aiplatform
+vertexai>=0.1.0
+
+# Web of Science
+# requests
